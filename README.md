@@ -1,16 +1,94 @@
-## Hi there 👋
+# Hi there, I'm Kenny 👋
 
-<!--
-**Kenny821/Kenny821** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+> *"I didn't choose Computer Science because I was good at it. I chose it because I was willing to explore the unknown."*
 
-Here are some ideas to get you started:
+I'm a Computer Science student from Malaysia who enjoys stepping outside my comfort zone and turning curiosity into real-world projects.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Rather than limiting myself to what I already know, I enjoy learning unfamiliar technologies, building practical solutions, and continuously improving through hands-on experience.
+
+---
+
+## 🚀 Currently Exploring
+
+* 🤖 AI Prompt Engineering
+* 🧠 Human-AI Interaction
+* 🎨 UI/UX Design
+* 🌐 Full-Stack Web Development
+* 💾 Database Design
+* 📚 Open Source Learning
+
+
+
+---
+
+## 💻 Tech Stack
+
+**Languages**
+
+* PHP
+* HTML
+* CSS
+* JavaScript
+* MySQL
+* Python (Learning)
+* C++ (Learning)
+
+**Tools**
+
+* Git & GitHub
+* VS Code
+* XAMPP
+* Figma
+* Canva
+
+---
+
+## 🌱 Currently Learning
+
+I'm currently focusing on:
+
+* Building scalable web applications
+* Writing cleaner backend architecture
+* Improving AI prompting techniques
+* Understanding Human-AI collaboration
+* Designing better user experiences
+
+---
+
+## 🏆 Highlight Project
+
+### Crow Education
+
+A free and open-source educational platform designed for Malaysian SPM students.
+
+🏅 Bronze Medal — NextUp Hackathon 2025
+
+My role:
+
+* Backend Lead Developer
+* User Authentication System
+* Database Integration
+* Backend API Development
+
+---
+
+## 📈 My Philosophy
+
+I believe growth begins when we step into unfamiliar territory.
+
+Every project is an opportunity to learn something new, every challenge is a chance to improve, and every failure brings me one step closer to understanding.
+
+I value curiosity over comfort, learning over perfection, and progress over excuses.
+
+---
+
+## 📫 Let's Connect
+
+I'm always happy to connect with people who enjoy:
+
+* Building meaningful projects
+* Exploring AI
+* Open-source collaboration
+* Learning together
+
+Let's create something meaningful together.
