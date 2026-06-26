@@ -17,6 +17,7 @@ Rather than limiting myself to what I already know, I enjoy learning unfamiliar 
 * 💾 Database Design
 * 📚 Open Source Learning
 
+![Static Badge](https://img.shields.io/badge/build-passing-brightgreen?style=for-the-badge&logo=instagram&logoColor=Black&logoSize=auto&label=Github&labelColor=black&color=white&cacheSeconds=3600)
 
 
 ---
