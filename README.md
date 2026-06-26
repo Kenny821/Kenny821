@@ -12,10 +12,10 @@ Rather than limiting myself to what I already know, I enjoy learning unfamiliar 
 
 * 🤖 AI Prompt Engineering
 * 🧠 Human-AI Interaction
-* 🎨 UI/UX Design
 * 🌐 Full-Stack Web Development
 * 💾 Database Design
 * 📚 Open Source Learning
+* 🎤 Public Speaking
 
 
 ---
@@ -23,7 +23,6 @@ Rather than limiting myself to what I already know, I enjoy learning unfamiliar 
 ## 💻 Tech Stack
 
 **Languages**
-![Static Badge](https://img.shields.io/badge/build-brightgreen?style=for-the-badge&logo=instagram&logoColor=Black&logoSize=auto&label=Instagram&labelColor=black&color=white&cacheSeconds=3600&link=https%3A%2F%2Fwww.instagram.com%2Fiskennyyy8%2F%3Fhl%3Den)
 
 * PHP
 * HTML
@@ -51,7 +50,6 @@ I'm currently focusing on:
 * Writing cleaner backend architecture
 * Improving AI prompting techniques
 * Understanding Human-AI collaboration
-* Designing better user experiences
 
 ---
 
