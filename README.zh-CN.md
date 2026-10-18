@@ -71,6 +71,14 @@
 
 <sub>这些卡片反映公开仓库中的活动与语言统计，不一定能代表我全部的学习和开发经历。</sub>
 
+
+## 🐍 My Contribution Snake
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Kenny821/Kenny821/output/github-contribution-grid-snake.svg" alt="GitHub Contribution Snake" />
+</p>
+
+
 ## 🤝 联系我
 
 * 💼 LinkedIn: **[LinkedIn](https://www.linkedin.com/in/kennyloh0821/)**

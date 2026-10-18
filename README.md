@@ -71,6 +71,15 @@ I want this profile to reflect the real process, not just the finished outcomes.
 
 <sub>These cards reflect activity and languages detected in public repositories. They may not represent my full learning or development experience.</sub>
 
+
+## 🐍 My Contribution Snake
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Kenny821/Kenny821/output/github-contribution-grid-snake.svg" alt="GitHub Contribution Snake" />
+</p>
+
+
+
 ## 🤝 Find Me
 
 * 💼 LinkedIn: **[LinkedIn](https://www.linkedin.com/in/kennyloh0821/)**
