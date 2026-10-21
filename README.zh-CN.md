@@ -35,7 +35,7 @@
 
 一个未来计划开展的项目，希望探索实用的数字名片体验。
 
-**状态：** 计划中
+**状态：** 已完成，可在主页打开连接
 
 ## 🛠️ 我使用的工具
 
@@ -96,6 +96,7 @@
 
 * 💼 LinkedIn: **[LinkedIn](https://www.linkedin.com/in/kennyloh0821/)**
 * 📷 Instagram: **[Instagram](https://instagram.com/ismekennyyy8)**
+* 🪪 我的电子名片 **[Digital Name Card](https://iskenny.pages.dev/)**
 
 ---
 

@@ -35,7 +35,7 @@ My current focus is improving my personal website through continuous iteration. 
 
 A planned project to explore a practical digital business card experience.
 
-**Status:** Planned
+**Status:** Done and able to access on my profile
 
 ## 🛠️ Tools I Use
 
@@ -97,6 +97,7 @@ I want this profile to reflect the real process, not just the finished outcomes.
 
 * 💼 LinkedIn: **[LinkedIn](https://www.linkedin.com/in/kennyloh0821/)**
 * 📷 Instagram: **[Instagram](https://instagram.com/ismekennyyy8)**
+* 🪪 My Digital Name Card **[Digital Name Card](https://iskenny.pages.dev/)**
 
 ---
 
