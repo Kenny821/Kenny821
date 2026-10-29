@@ -64,13 +64,6 @@ I use AI assistance in my development workflow. I focus on defining what I want 
 
 I want this profile to reflect the real process, not just finished outcomes. As my projects evolve, I'll continue refining them and documenting what I learn along the way.
 
-## 📊 GitHub at a Glance
-
-<p align="center">
-  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kenny821&layout=compact&hide_border=true" alt="Languages detected in Kenny's public repositories" />
-</p>
-
-<sub>These cards reflect activity and languages detected in public repositories. They may not represent my full learning or development experience.</sub>
 
 ## 🐍 My Contribution Snake
 

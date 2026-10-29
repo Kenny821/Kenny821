@@ -64,13 +64,6 @@
 
 我希望这个主页呈现真实的过程，而不只是最终成果。随着项目不断发展，我会继续改进作品，并记录沿途学到的经验。
 
-## 📊 GitHub 概览
-
-<p align="center">
-  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kenny821&layout=compact&hide_border=true" alt="Kenny 公开仓库中常用的语言" />
-</p>
-
-<sub>这些卡片反映公开仓库中的活动与语言统计，不一定能代表我全部的学习和开发经历。</sub>
 
 ## 🐍 我的贡献蛇动画
 
