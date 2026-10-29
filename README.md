@@ -6,7 +6,7 @@
 
 I use AI as both a development assistant and a learning partner to turn ideas in my head into real projects.
 
-This profile is where I share what I build, what I learn, and how my projects evolve over time.
+This profile documents what I build, what I learn, and how my projects evolve over time.
 
 **[English](README.md) · [简体中文](README.zh-CN.md)**
 
@@ -16,51 +16,53 @@ This profile is where I share what I build, what I learn, and how my projects ev
 
 ## 👋 About Me
 
-* 💡 I enjoy exploring ideas and finding ways to bring them to life.
-* 🤝 I use AI to help me build, learn, ask questions, and explore unfamiliar topics in depth.
-* 🔄 I believe in learning by making things, reviewing the results, and improving them.
-* 📓 I'm documenting my journey as I become better at using AI to create things.
+- 💡 I enjoy exploring ideas and finding ways to bring them to life.
+- 🤝 I use AI to build, learn, ask questions, and explore unfamiliar topics in depth.
+- 🔄 I believe in learning by making things, reviewing the results, and improving them.
+- 📓 I'm documenting how I grow through experimenting with AI and building real projects.
 
-I don't see AI only as a tool for generating code. I also use it as a learning partner to explore unfamiliar concepts, discuss decisions, and turn ideas into something tangible.
+For me, AI is more than a code-generation tool. It's also a learning partner that helps me understand unfamiliar concepts, explore options, and turn ideas into tangible results.
 
-## 🚀 What I'm Building
+## 🚀 What I'm Working On
 
 ### 🌐 Personal Website V2
+**Status: In Progress**
 
-My current focus is improving my personal website through continuous iteration. I'm learning along the way and exploring how AI can help me build more effectively.
+I'm developing the second version of my personal website, building on what I learned from the first version. My focus is on iterating on the experience, improving the implementation, and learning how to use AI more effectively throughout the development process.
 
-**Status:** In Progress
+### ⚙️ SOP System & Workflow Automation
+**Status: Planning**
+
+I'm exploring the idea of building a system for documenting standard operating procedures (SOPs) and automating workflows. The specific problem, features, and technical approach are not decided yet. I'm still in the planning and exploration stage.
+
+## ✅ Completed Projects
 
 ### 🪪 Digital Business Card
+**Status: Completed**
 
-A planned project to explore a practical digital business card experience.
-
-**Status:** Done and able to access on my profile
+A digital business card project that gives me a simple way to present my personal information online.
 
 ## 🛠️ Tools I Use
 
 **AI-Assisted Development**
-
-* Claude Code
-* OpenAI Codex
-* Grok
+- Claude Code
+- OpenAI Codex
+- Grok
 
 **Development Environment**
-
-* Visual Studio Code
+- Visual Studio Code
 
 **Programming Languages**
+- Python
+- C++
 
-* Python
-* C++
-
-I use AI assistance in my development workflow. My focus is on defining what I want to build, managing project work, troubleshooting issues, and learning from the process.
+I use AI assistance in my development workflow. I focus on defining what I want to build, managing project work, troubleshooting issues, and learning from the process.
 
 ## 🧭 My Approach
 
 **Idea → Explore → Build → Review → Improve**
 
-I want this profile to reflect the real process, not just the finished outcomes. As my projects evolve, I hope to share what changed, what I learned, and how I used AI along the way.
+I want this profile to reflect the real process, not just finished outcomes. As my projects evolve, I'll continue refining them and documenting what I learn along the way.
 
 ## 📊 GitHub at a Glance
 
@@ -71,33 +73,20 @@ I want this profile to reflect the real process, not just the finished outcomes.
 
 <sub>These cards reflect activity and languages detected in public repositories. They may not represent my full learning or development experience.</sub>
 
-
 ## 🐍 My Contribution Snake
 
 <p align="center">
   <picture>
-    <source
-      media="(prefers-color-scheme: dark)"
-      srcset="https://raw.githubusercontent.com/Kenny821/Kenny821/output/github-contribution-grid-snake-dark.svg"
-    />
-    <source
-      media="(prefers-color-scheme: light)"
-      srcset="https://raw.githubusercontent.com/Kenny821/Kenny821/output/github-contribution-grid-snake.svg"
-    />
-    <img
-      alt="GitHub Contribution Snake"
-      src="https://raw.githubusercontent.com/Kenny821/Kenny821/output/github-contribution-grid-snake.svg"
-    />
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Kenny821/Kenny821/output/github-contribution-grid-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Kenny821/Kenny821/output/github-contribution-grid-snake.svg" />
+    <img alt="GitHub contribution snake animation" src="https://raw.githubusercontent.com/Kenny821/Kenny821/output/github-contribution-grid-snake.svg" />
   </picture>
 </p>
 
-
-
 ## 🤝 Find Me
 
-* 💼 LinkedIn: **[LinkedIn](https://www.linkedin.com/in/kennyloh0821/)**
-* 📷 Instagram: **[Instagram](https://instagram.com/ismekennyyy8)**
-* 🪪 My Digital Name Card **[Digital Name Card](https://iskenny.pages.dev/)**
+- 💼 LinkedIn: **[LinkedIn](https://www.linkedin.com/in/kennyloh0821/)**
+- 📷 Instagram: **[Instagram](https://www.instagram.com/iskennyyy8/)**
 
 ---
 
