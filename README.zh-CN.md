@@ -67,7 +67,6 @@
 ## 📊 GitHub 概览
 
 <p align="center">
-  <img height="160" src="https://github-readme-stats.vercel.app/api?username=Kenny821&show_icons=true&hide_border=true&rank_icon=github" alt="Kenny 的 GitHub 统计" />
   <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kenny821&layout=compact&hide_border=true" alt="Kenny 公开仓库中常用的语言" />
 </p>
 

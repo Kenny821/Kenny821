@@ -67,7 +67,6 @@ I want this profile to reflect the real process, not just finished outcomes. As 
 ## 📊 GitHub at a Glance
 
 <p align="center">
-  <img height="160" src="https://github-readme-stats.vercel.app/api?username=Kenny821&show_icons=true&hide_border=true&rank_icon=github" alt="Kenny's GitHub statistics" />
   <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kenny821&layout=compact&hide_border=true" alt="Languages detected in Kenny's public repositories" />
 </p>
 
